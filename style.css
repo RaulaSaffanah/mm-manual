@@ -1,0 +1,17 @@
+#modul-monita-manual > a {
+  font-family: "Crimson Text", serif;
+  color: #589167;
+  font-size: 24px;
+}
+.sidebar-nav > ul > li {
+  color: #327043;
+  font-size: 20px;
+}
+.sidebar-nav > ul > li > ul > li > a {
+  color: #000000;
+  font-size: 16px;
+}
+.sidebar-nav > ul > li > ul > li > ul > li > a {
+  color: #000000;
+  font-size: 16px;
+}
