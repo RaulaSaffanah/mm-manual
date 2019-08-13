@@ -1,8 +1,9 @@
 # Apa Itu Rinjani?
 
-selain dapat digunakan untuk `Monita Marine Vessel Monitoring System`, monita juga dapat melakukan pembacaan data metering listrik _(kWh meter)_ dari power meter menggunakan komunikasi modbus, pembangkit listrik tenaga diesel, beserta parameter-parameter mesin diesel yang beroperasi seperti temperatur komponen mesin, tekanan silinder, kecepatan putar mesin, dan lain-lain, monitoring `Instalasi Pengolahan Air (IPA)` atau `Water Treatment Plant (WTP)` yang dapat memonitor dari jauh seperti: volume, debit, kekeruhan maupun ketinggian air secara realtime.
+Rinjani merupakan salah satu modul monita yang dapat digunakan untuk `Monita Marine Vessel Monitoring System` (sistem pemantauan kapal laut monita), menarik data dari banyak device lalu akan mentransmisikannya melalui satelit atau sistem komunikasi GPRS.
 
-Setelah monita mendapat data yang dibutuhkan di lapangan dan ditransmisikan melalui `GPRS` atau satelit lalu data tersebut akan diolah dan ditampilkan dalam tampilan web sehingga siapapun dapat memeriksa data yang ada di lapangan sehingga informasi ataupun masalah di lapangan dapat diketahui dengan cepat.
+Rinjani sendiri memiliki beberapa type, yaitu Type A, Type B, dan Type C.
+berikut adalah spesifikasi masing masing type Rinjani:
 
 | Rinjani       | Type A                        | Type B          | Type C       |
 | ------------- | ----------------------------- | --------------- | ------------ |

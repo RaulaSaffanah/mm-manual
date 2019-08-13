@@ -8,11 +8,27 @@
     - [Rinjani Type A](r_type_a)
     - [Rinjani Type B](r_type_b)
     - [Rinjani Type C](r_type_c)
+  - Manual
+    - [Alarm](Alarm.md)
 - Konter
-  - [isi](/)
+  - [Apa itu Konter?](konter.md)
+  - Manual
+    - [Modbus Master](mobmaskonter.md)
+    - [Webclient](webclient.md)
+    - [SD Card (Via gkterm)](sdcard.md)
+    - [SD Card (Via Web Server)](sdcard2.md)
 - Santer
-  - [isi](/)
+  - [Apa itu Santer?](santer.md)
+  - Manual
+    - [Santer](/)
 - Sabang
-  - [isi](/)
+  - [Apa itu Sabang?](sabang.md)
+  - Jenis
+    - [Sabang ADC](sbng_adc.md)
+    - [Sabang PM](sbng_pm.md)
+  - Manual
+    - [Sabang ADC](/)
 - PM Kapal
-  - [isi](/)
+  - [Apa itu PM Kapal?](pmkapal.md)
+  - Manual
+    - [PM](/)
