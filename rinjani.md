@@ -1,6 +1,6 @@
 # Apa Itu Rinjani?
 
-Rinjani merupakan salah satu modul monita yang dapat digunakan untuk `Monita Marine Vessel Monitoring System` (sistem pemantauan kapal laut monita), menarik data dari banyak device lalu akan mentransmisikannya melalui satelit atau sistem komunikasi GPRS.
+Rinjani merupakan salah satu modul monita yang digunakan untuk `Monita Marine Vessel Monitoring System` (sistem pemantauan kapal laut monita), serta bisa menarik data dari banyak device lalu akan mentransmisikannya melalui satelit atau sistem komunikasi GPRS.
 
 Rinjani sendiri memiliki beberapa type, yaitu Type A, Type B, dan Type C.
 berikut adalah spesifikasi masing masing type Rinjani:

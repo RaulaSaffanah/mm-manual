@@ -4,6 +4,8 @@
 | ------ | ------ | ------ |
 | Yes    | Yes    | Yes    |
 
+<br>
+
 Sebelum tes alarm relay, wajib dilakukan pengetesan relay terlebih dahulu. Berikut
 akan dijelaskan bagaimana cara tes relaynya.
 

@@ -10,6 +10,8 @@
     - [Rinjani Type C](r_type_c)
   - Manual
     - [Alarm](Alarm.md)
+  - Fitur
+    - [Parameter Performance](pp.md)
 - Konter
   - [Apa itu Konter?](konter.md)
   - Manual
