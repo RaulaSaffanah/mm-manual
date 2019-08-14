@@ -16,7 +16,7 @@
   - [Apa itu Konter?](konter.md)
   - Manual
     - [Modbus Master](mobmaskonter.md)
-    - [Webclient](webclient.md)
+    - [Webclient](Webclient.md)
     - [SD Card (Via gkterm)](sdcard.md)
     - [SD Card (Via Web Server)](sdcard2.md)
 - Santer

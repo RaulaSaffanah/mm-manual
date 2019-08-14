@@ -9,6 +9,7 @@
 5. SDCard
 6. Modbus Master
 7. Relay
+8. Modbus Slave
 
 ### Rinjani type-C memiliki fitur lain yaitu :
 

@@ -10,6 +10,6 @@ berikut adalah spesifikasi masing masing type Rinjani:
 |               | Standard Monitoring + Control | Mobdus Gateaway | Mobdus Slave |
 | GPS           | Yes                           | No              | No           |
 | Relay Output  | Yes                           | No              | Yes          |
-| 2 GPRS        | Yes                           | Yes             | No           |
-| Mobdus Master | Yes                           | Yes             | Yes          |
-| Mobdus slave  | No                            | No              | Yes          |
+| GPRS          | Yes                           | Yes             | No           |
+| Modbus Master | Yes                           | Yes             | Yes          |
+| Modbus slave  | No                            | No              | Yes          |

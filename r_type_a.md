@@ -9,6 +9,7 @@
 5. SDCard
 6. Modbus Master
 7. Relay
+8. GPS
 
 ### Rinjani tipe-A memiliki fitur lain yaitu :
 
