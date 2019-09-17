@@ -20,3 +20,13 @@
   font-size: 16px;
   font-weight: 200;
 }
+
+.text-success {
+  background: rgb(52, 128, 49);
+  color: aliceblue;
+}
+
+.text-danger {
+  color: aliceblue;
+  background: rgb(204, 10, 10);
+}

@@ -5,10 +5,11 @@
 - Rinjani
   - [Apa Itu Rinjani?](rinjani.md)
   - Jenis
-    - [Rinjani Type A](r_type_a)
-    - [Rinjani Type B](r_type_b)
-    - [Rinjani Type C](r_type_c)
+    - [Rinjani Type A](r_type_a.md)
+    - [Rinjani Type B](r_type_b.md)
+    - [Rinjani Type C](r_type_c.md)
   - Manual
+    - [Quick Start Guide](qg.md)
     - [Alarm](Alarm.md)
   - Fitur
     - [Parameter Performance](pp.md)
@@ -28,8 +29,6 @@
   - Jenis
     - [Sabang ADC](sbng_adc.md)
     - [Sabang PM](sbng_pm.md)
-  - Manual
-    - [Sabang ADC](/)
 - PM Kapal
   - [Apa itu PM Kapal?](pmkapal.md)
   - Manual
