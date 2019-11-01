@@ -22,14 +22,14 @@
     - [SD Card (Via Web Server)](sdcard2.md)
 - Santer
   - [Apa itu Santer?](santer.md)
-  - Manual
-    - [Santer](/)
+  <!-- - Manual
+    - [Santer](/) -->
 - Sabang
   - [Apa itu Sabang?](sabang.md)
   - Jenis
     - [Sabang ADC](sbng_adc.md)
     - [Sabang PM](sbng_pm.md)
-- PM Kapal
+<!-- - PM Kapal
   - [Apa itu PM Kapal?](pmkapal.md)
   - Manual
-    - [PM](/)
+    - [PM](/) -->
